@@ -20,7 +20,7 @@ This project demonstrates optimization processes using Bayesian Optimization wit
 ## Authors
 
 - **Professor:** Dr. Mehdi Zaferanieh
-- **Student:** Omid Sotooni ([@omidsotooni])
+- **Student:** [Omid Sotooni](https://github.com/omidsotooni)
 
 ## License
 
