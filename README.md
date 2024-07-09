@@ -10,17 +10,17 @@ This project demonstrates optimization processes using Bayesian Optimization wit
 
 ## Included codes
 
-    - SiouxFalls-BiLevel-Paper-150Iter-100Dim-Linear-EI.ipynb
-    - SiouxFalls-BiLevel-Paper-150Iter-100Dim-Matern-LCB.ipynb
-    - SiouxFalls-BiLevel-Paper-150Iter-100Dim-RBF-MPI.ipynb
-    - SiouxFalls-BiLevel-Paper-DefaultKernels.ipynb
-    - 9Node-BiLevel-Multi5.ipynb
-    - 9Node-OneLevel-25-Paper-Default.ipynb
+- SiouxFalls-BiLevel-Paper-150Iter-100Dim-Linear-EI.ipynb
+- SiouxFalls-BiLevel-Paper-150Iter-100Dim-Matern-LCB.ipynb
+- SiouxFalls-BiLevel-Paper-150Iter-100Dim-RBF-MPI.ipynb
+- SiouxFalls-BiLevel-Paper-DefaultKernels.ipynb
+- 9Node-BiLevel-Multi5.ipynb
+- 9Node-OneLevel-25-Paper-Default.ipynb
 
 ## Authors
 
-    - Dr Mehdi Zaferanieh (Professor)
-    - Omid Sotooni (Student)
+- **Professor:** Dr. Mehdi Zaferanieh
+- **Student:** Omid Sotooni ([@omidsotooni])
 
 ## License
 
